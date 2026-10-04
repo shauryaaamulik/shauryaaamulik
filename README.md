@@ -103,62 +103,7 @@ Currently focused on improving DSA, algorithms, problem solving and contest perf
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shauryaaamulik&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true" />
 </a>
 
-⸻
 
-🏆 Achievements
-
-* 🏅 Competitive Programming
-* 🏆 ICPC / Programming Contests
-* 🚀 Open Source Contributions
-* 🤖 Robotics & Engineering Projects
-* 🌍 Open Source Program Applications
-* 📚 Continuous learning & experimentation
-
-⸻
-
-🌱 Currently Learning
-
-C++                  ███████████████░░░░░
-Data Structures      ████████████░░░░░░░░
-Algorithms            ███████████░░░░░░░░░
-Competitive Coding    ██████████░░░░░░░░░░
-Open Source           ████████░░░░░░░░░░░░
-Robotics              █████████░░░░░░░░░░░
-Computer Vision       █████████░░░░░░░░░░░
-
-⸻
-
-📈 Contribution Graph
-
-<div align="center">
-</div>
-
-⸻
-
-🐍 Contribution Snake
-
-<div align="center">
-</div>
-
-⸻
-
-⏱️ Coding Activity
-
-<!-- Uncomment after setting up WakaTime -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
--->
-
-⸻
-
-🎵 Currently Listening
-
-<!-- Optional Spotify integration -->
-<!--
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f)](https://open.spotify.com/)
--->
-
-⸻
 
 👀 Profile Visitors
 
