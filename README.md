@@ -76,42 +76,6 @@ Codeforces
 </a>
 </div>
 
-Platforms
-
-Platform	Profile
-🟦 Codeforces	@shauryamulik
-🟧 LeetCode	Profile
-🟩 CodeChef	Profile
-🟥 AtCoder	Profile
-
-Currently focused on improving DSA, algorithms, problem solving and contest performance.
-
-⸻
-
-🧩 Featured Projects
-
-<a href="https://github.com/shauryaaamulik">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shauryaaamulik&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/shauryaaamulik">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shauryaaamulik&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/shauryaaamulik">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shauryaaamulik&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/shauryaaamulik">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shauryaaamulik&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true" />
-</a>
-
-
-
-👀 Profile Visitors
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=shauryaaamulik&style=for-the-badge&color=blueviolet" />
-</div>
-
-⸻
 
 📫 Connect With Me
 
